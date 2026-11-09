@@ -1,0 +1,15 @@
+# Build artifacts
+/rsstat
+/*.o
+
+# Development checkpoints
+/rsstat.c.orig
+/rsstat.c.v[0-9]*
+
+# Development tests
+/tests/
+
+# Temporary and editor files
+*~
+*.swp
+*.swo
